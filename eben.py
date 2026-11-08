@@ -5,3 +5,4 @@ else:
     print('Ahyel chto li blat gandon ebani') 
 print("")
 print('fdfsfdsdfsfdsfds')
+12
