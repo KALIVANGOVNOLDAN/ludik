@@ -3,3 +3,5 @@ if Eben == "ne ne ne ne ":
      print = "ne ne ne"
 else:
     print('Ahyel chto li blat gandon ebani') 
+print("")
+print('fdfsfdsdfsfdsfds')
